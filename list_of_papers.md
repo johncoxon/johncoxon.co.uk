@@ -1,3 +1,9 @@
+### 2021
+
+33. **Coxon, J. C.**, R. C. Fear, J. A. Reidy, L. J. Fryer, J. Plank. 2021. **Hot plasma in the magnetotail lobe shows characteristics consistent with closed field lines trapped in the lobes**, J. Geophys. Res. Space Physics, 126. [doi:10.1029/2021JA029516](https://doi.org/10.1029/2021JA029516)
+
+32. Fryer, L. J., R. C. Fear, **J. C. Coxon**, and I. L. Gingell. 2021. **Observations of closed magnetic flux embedded in the lobes during periods of Northward IMF**.  J. Geophys. Res. Space Physics, 126. [doi:10.1029/2021JA029281](https://doi.org/10.1029/2021JA029281)
+
 ### 2020
 
 31. Lockwood, M., M. J. Owens, L. A. Barnard, C. E. Watt, C. J. Scott, **J. C. Coxon** and K. A. McWilliams. 2020. **Semi‐annual, annual and Universal Time variations in the magnetosphere and in geomagnetic activity: 3. Modelling**, J. Space Weather Space Clim, 10, 61. [doi:10.1051/swsc/2020062](https://doi.org/10.1051/swsc/2020062)
