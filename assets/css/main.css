@@ -616,7 +616,7 @@ input, select, textarea {
 			line-height: 1;
 			text-transform: none !important;
 			font-family: 'Font Awesome 5 Free';
-			font-weight: 400;
+			font-weight: 900;
 		}
 
 		.icon > .label {
@@ -627,12 +627,10 @@ input, select, textarea {
 			line-height: inherit;
 		}
 
-		.icon.solid:before {
-			font-weight: 900;
-		}
-
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
+			font-weight: 400;
+			
 		}
 
 /* Image */
@@ -899,11 +897,13 @@ input, select, textarea {
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
+		font-size: 2.5rem;
+		text-align: center;
 	}
 
 		ul.icons li {
 			display: inline-block;
-			padding: 0 0.75em 0 0;
+			padding: 0 0.5em 0 0;
 		}
 
 			ul.icons li:last-child {
@@ -912,12 +912,11 @@ input, select, textarea {
 
 			ul.icons li a {
 				border-radius: 100%;
-				box-shadow: inset 0 0 0 1px #ffffff;
 				display: inline-block;
-				height: 2.25rem;
-				line-height: 2.25rem;
+				height: 3.5rem;
+				line-height: 3.5rem;
 				text-align: center;
-				width: 2.25rem;
+				width: 3.5rem;
 			}
 
 				ul.icons li a:hover {
