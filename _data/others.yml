@@ -1,45 +1,54 @@
 # Publications. Order within each year is the order shown on the site.
+# type:   paper | software | thesis | other
 # Papers are numbered automatically (newest = highest number) and grouped by year.
 # Fields: authors, year, suffix (optional, e.g. a/b), title, details (Markdown, e.g. the
 #         italic journal name, volume and pages), doi (bare DOI) or url.
 # "John C Coxon" is bolded automatically.
 
-- year: 2025
+- type: other
+  year: 2025
   authors: Matthew Allcock, Alastair Pidgeon, Gordon Black, Emily Prestwood, Alyssa Frayling, Sara Cucaro, Will Lecky, John C Coxon, Andy W Smith, Sarah N Bentley, Clare E J Watt, Robert T Wicks & I Jonathan Rae
   title: Severe Space Weather Impacts on UK Critical National Infrastructure
   details: Starion UK Ltd, Bath, UK
   url: https://purl.org/net/epubs/work/61075921
-- year: 2023
+- type: other
+  year: 2023
   authors: Michael W Liemohn, McArthur Jones Jr, Xochitl Blanco-Cano, John C Coxon, Alexa J Halford & Chigomezyo Ngwira
   title: 'Editorial: Driving towards a more diverse space physics research community—perspectives, initiatives, strategies, and actions'
   details: '*Frontiers in Astronomy and Space Sciences*, 10'
   doi: 10.3389/fspas.2023.1292058
-- year: 2022
+- type: other
+  year: 2022
   authors: John C Coxon, Anasuya Aruliah, Sarah N Bentley, Robert M Shore
   title: RAS Specialist Discussion Meeting report
   details: '*Astronomy & Geophysics*, 63(1), 30–34'
   doi: 10.1093/astrogeo/atac011
-- year: 2021
+- type: other
+  year: 2021
   authors: Angeline G Burrell, McArthur Jones Jr, Alexa J Halford, Kate A Zawdie, John C Coxon
   title: Bypassing the bias
   details: '*Astronomy & Geophysics*, 62(5), 28–29'
   doi: 10.1093/astrogeo/atab090
-- year: 2018
+- type: other
+  year: 2018
   authors: John C Coxon, Jasmine Kaur Sandhu, Gabrielle Provan & James Wild
   title: Public engagement with MIST science
   details: '*Astronomy & Geophysics*, 59(6), 29–31'
   doi: 10.1093/astrogeo/aty276
-- year: 2018
+- type: other
+  year: 2018
   authors: Jasmine Kaur Sandhu, Georgina A Graham, Sarah N Bentley & John C Coxon
   title: Autumn MIST 2017
   details: '*Astronomy & Geophysics*, 59(2), 26–29'
   doi: 10.1093/astrogeo/aty090
-- year: 2017
+- type: other
+  year: 2017
   authors: Sarah V Badman, John C Coxon, Katie Raymer & Arianna M Sorba
   title: London MIST 2016
   details: '*Astronomy & Geophysics*, 58(5), 32–34'
   doi: 10.1093/astrogeo/atx175
-- year: 2016
+- type: other
+  year: 2016
   authors: John C Coxon, Jasmine Kaur Sandhu, Nadine ME Kalmoni, Rebecca L Gray, Joe Kinrade & Ian McCrea
   title: Autumn MIST 2015
   details: '*Astronomy & Geophysics*, 57(3), 21–24'

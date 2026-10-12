@@ -1,5 +1,5 @@
 # Publications. Order within each year is the order shown on the site.
-# type:   paper | thesis
+# type:   paper | software | thesis | other
 # Papers are numbered automatically (newest = highest number) and grouped by year.
 # Fields: authors, year, suffix (optional, e.g. a/b), title, details (Markdown, e.g. the
 #         italic journal name, volume and pages), doi (bare DOI) or url.
