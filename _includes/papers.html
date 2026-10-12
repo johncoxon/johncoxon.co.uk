@@ -4,7 +4,7 @@
 {%- endcomment -%}
 {%- assign papers = site.data.papers | where: "type", "paper" -%}
 {%- assign thesis = site.data.papers | where: "type", "thesis" -%}
-{%- assign others = site.data.papers | where: "type", "other" -%}
+{%- assign others = site.data.others -%}
 {%- assign remaining = papers.size -%}
 {%- assign years = papers | group_by: "year" | sort: "name" | reverse -%}
 
