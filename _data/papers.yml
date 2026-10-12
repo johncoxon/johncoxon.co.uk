@@ -1,0 +1,363 @@
+# Publications. Order within each year is the order shown on the site.
+# type:   paper | thesis | other
+# Papers are numbered automatically (newest = highest number) and grouped by year.
+# Fields: authors, year, suffix (optional, e.g. a/b), title, details (Markdown, e.g. the
+#         italic journal name, volume and pages), doi (bare DOI) or url.
+# "John C Coxon" is bolded automatically.
+
+- type: paper
+  year: 2026
+  authors: John C Coxon, Sarah K Vines, Wenli Mo, Matthew J Townson, Clare EJ Watt, I Jonathan Rae, D Shaun Bloomfield, Andrew W Smith, Stephen E Milan, Brian J Anderson, Atlas M Patrick & Maria C Hasler
+  title: AMPERE observations of the asymmetry toward stronger Birkeland currents in the Northern Hemisphere
+  details: '*Journal of Geophysical Research: Space Physics*, 131, e2026JA035162'
+  doi: 10.1029/2026JA035162
+- type: paper
+  year: 2026
+  authors: Sophie J Maguire, Alan G Wood, David R Themens, Edmund M Henley, Stephen E Milan, Yasir Soobiah, Kjellmar Oksavik, Wojciech J Miloch, John C Coxon & Magnar G Johnsen
+  title: 'The evolution of a polar cap patch into a blob in the nightside ionosphere: Direct observations of multiple blob formation mechanisms acting simultaneously on the same plasma'
+  details: '*Journal of Geophysical Research: Space Physics*, 131, e2025JA034402'
+  doi: 10.1029/2025JA034402
+- type: paper
+  year: 2026
+  authors: Atlas M Patrick, John C Coxon, Sarah N Bentley, Maria-Theresia Walach, Kyle R Murphy, I Jonathan Rae & Isobel S Lockley
+  title: How does the definition of a geomagnetic storm affect the contents of the resulting storm list?
+  details: '*Space Weather*, 24, e2025SW004857'
+  doi: 10.1029/2025SW004857
+- type: paper
+  year: 2026
+  authors: Tom S Stallard, Luke Moore, Henrik Melin, Chris GA Smith, Omakshi Agiwal, M Nahid Chowdhury, Rosie E Johnson, Katie L Knowles, Emma M Thomas, Paola I Tiranti, James O’Donoghue, Khalid Mohamed, Ingo Mueller-Wodarg, John C Coxon, Sarah V Badman & Joe A Caggiano
+  title: JWST/NIRSpec reveals the atmospheric driver of Saturn's variable magnetospheric rotation rate
+  details: '*Journal of Geophysical Research: Space Physics*, 131, e2025JA034578'
+  doi: 10.1029/2025JA034578
+- type: paper
+  year: 2025
+  authors: Tom S Stallard, Katie L Knowles, Henrik Melin, Ruoyan Wang, Emma M Thomas, Luke Moore, James O’Donoghue, Rosie Johnson, Steve Miller & John C Coxon
+  title: 'Dominant drivers of Jupiter''s H3+ northern aurora: I. Magnetic field strength and planetary local time'
+  details: '*Journal of Geophysical Research: Space Physics*, 130, e2025JA034067'
+  doi: 10.1029/2025JA034067
+- type: paper
+  year: 2025
+  authors: Tom S Stallard, Katie L Knowles, Henrik Melin, Ruoyan Wang, Emma M Thomas, Luke Moore, James O’Donoghue, Rosie Johnson, Steve Miller & John C Coxon
+  title: 'Dominant trends in Jupiter''s H3+ northern aurora: II. Magnetospheric mapping'
+  details: '*Journal of Geophysical Research: Space Physics*, 130, e2025JA034076'
+  doi: 10.1029/2025JA034076
+- type: paper
+  year: 2025
+  authors: Maria-Theresia Walach, Alexandra R Fogg, John C Coxon, Adrian Grocott, Steve E Milan, Harneet K Sangha, Kathryn A McWilliams, Sarah K Vines, Mark Lester & Brian J Anderson
+  title: Reliability of matching AMPERE field-aligned current boundaries with SuperDARN lower latitude ionospheric convection boundaries during geomagnetic storms
+  details: '*Journal of Geophysical Research: Space Physics*, 150, e2024JA033253'
+  doi: 10.1029/2024JA033253
+- type: paper
+  year: 2025
+  authors: James E Waters, Laurent Lamy, John C Coxon, Caitríona M Jackman, Christian J Lao, Colin Forsyth & Alexandra R. Fogg
+  title: AKR observations from all local times indicate substorm activity
+  details: '*Journal of Geophysical Research: Space Physics*, 130, e2025JA033955'
+  doi: 10.1029/2025JA033955
+- type: paper
+  year: 2024
+  authors: Denny M Oliveira, James M Weygand, John C Coxon & Eftyhia Zesta
+  title: 'Substorm-time ground dB/dt variations controlled by interplanetary shock impact angles: A statistical study'
+  details: '*Space Weather*, 22, e2023SW003767'
+  doi: 10.1029/2023SW003767
+- type: paper
+  year: 2024
+  authors: Christopher J Scott, Matthew N Wild, Luke A Barnard, Bingkun Yu, Tatsuhiro Yokoyama, Michael Lockwood, Cathryn N Mitchell, John C Coxon & Andrew J Kavanagh
+  title: Calibrating estimates of ionospheric long-term change
+  details: '*Annales Geophysicae*, 42, 395–418'
+  doi: 10.5194/angeo-42-395-2024
+- type: paper
+  year: 2024
+  authors: Andrew W Smith, I Jonathan Rae, Colin Forsyth, John C Coxon, Maria-Theresia Walach, Christian J Lao, D Shaun Bloomfield, Sachin A Reddy, Mike K Coughlan, Amy Keesee & Sarah N Bentley
+  title: 'Space weather forecasts of ground level space weather in the UK: Evaluating performance and limitations'
+  details: '*Space Weather*, 22, e2024SW003973'
+  doi: 10.1029/2024SW003973
+- type: paper
+  year: 2023
+  authors: John C Coxon, Gareth Chisham, Mervyn P Freeman, Colin Forsyth, Maria-Theresia Walach, Kyle R Murphy, Sarah K Vines, Brian J Anderson, Andrew W Smith & Alexandra R Fogg
+  title: Extreme Birkeland currents are more likely during geomagnetic storms on the dayside of the Earth
+  details: '*Journal of Geophysical Research: Space Physics*, 128, e2023JA031946'
+  doi: 10.1029/2023JA031946
+- type: paper
+  year: 2023
+  authors: Angeline G Burrell, McArthur Jones Jr, Kate A Zawdie, John C Coxon & Alexa J Halford
+  title: Tips for writing a good recommendation letter
+  details: '*Frontiers in Astronomy and Space Sciences*, 10'
+  doi: 10.3389/fspas.2023.1114821
+- type: paper
+  year: 2023
+  authors: Laura J Fryer, Robert C Fear, Imogen L Gingell, John C Coxon, Minna Palmroth, Sanni Hoilijoki, Pekka Janhunen, Anita Kullen & Paul A Cassak
+  title: 3D GUMICS simulations of northward IMF magnetotail structure
+  details: '*Journal of Geophysical Research: Space Physics*, 128, e2023JA031317'
+  doi: 10.1029/2023JA031317
+- type: paper
+  year: 2023
+  authors: James E Waters, Caitriona M Jackman, Daniel K Whiter, Alexandra R Fogg, Laurent Lamy, Jennifer A Carter, John C Coxon, Laura Fryer, Corentin K Louis, Larry J Paxton, Carine Briand, Baptiste Cecconi, Karine Issautier, Xavier Bonnin, & Peter T Gallagher
+  title: Auroral emissions and inner magnetospheric dynamics during Earth’s response to the 28th October 2021 Coronal Mass Ejection
+  details: in *Planetary, Solar and Heliospheric Radio Emissions IX* (eds Corentin K Louis, Caitriona M Jackman, Georg Fischer, Ali H Sulaiman & Pietro Zucca), 155–170
+  doi: 10.25546/104047
+- type: paper
+  year: 2022
+  authors: John C Coxon, Gareth Chisham, Mervyn P Freeman, Brian J Anderson & Robert C Fear
+  title: Distributions of Birkeland current density observed by AMPERE are heavy-tailed or long-tailed
+  details: '*Journal of Geophysical Research: Space Physics*, 127, e2021JA029801'
+  doi: 10.1029/2021JA029801
+- type: paper
+  year: 2022
+  authors: Joseph WB Eggington, John C Coxon, Robert M Shore, Ravindra T Desai, Lars Mejnertsen, Jeremy P Chittenden & Jonathan P Eastwood
+  title: 'Response timescales of the magnetotail current sheet during a geomagnetic storm: Global MHD simulations'
+  details: '*Frontiers in Astronomy and Space Sciences*, 9, 966164'
+  doi: 10.3389/fspas.2022.966164
+- type: paper
+  year: 2021
+  authors: John C Coxon, Robert C Fear, Jade A Reidy, Laura J Fryer & James Plank
+  title: Hot plasma in the magnetotail lobe shows characteristics consistent with closed field lines trapped in the lobes
+  details: '*Journal of Geophysical Research: Space Physics*, 126, e2021JA029516'
+  doi: 10.1029/2021JA029516
+- type: paper
+  year: 2021
+  authors: Laura J Fryer, Robert C Fear, John C Coxon & Imogen L Gingell
+  title: Observations of closed magnetic flux embedded in the lobes during periods of Northward IMF
+  details: '*Journal of Geophysical Research: Space Physics*, 126, e2021JA029281'
+  doi: 10.1029/2021JA029281
+- type: paper
+  year: 2020
+  authors: Mike Lockwood, Mathew J Owens, Luke A Barnard, Clare EJ Watt, Chris J Scott, John C Coxon & Kathryn A McWilliams
+  title: 'Semi‐annual, annual and Universal Time variations in the magnetosphere and in geomagnetic activity: 3. Modelling'
+  details: '*Journal of Space Weather and Space Climate*, 10, 61'
+  doi: 10.1051/swsc/2020062
+- type: paper
+  year: 2020
+  authors: Mike Lockwood, Kathryn A McWilliams, Mathew J Owens, Luke A Barnard, Clare EJ Watt, Chris J Scott, Allan R Macneil & John C Coxon
+  title: 'Semi-annual, annual and Universal Time variations in the magnetosphere and in geomagnetic activity: 2. Response to solar wind power input and relationships with solar wind dynamic pressure and magnetospheric flux transport'
+  details: '*Journal of Space Weather and Space Climate*, 10, 30'
+  doi: 10.1051/swsc/2020033
+- type: paper
+  year: 2020
+  authors: Mike Lockwood, Mathew J Owens, Luke A Barnard, Carl Haines, Chris J Scott, Kathryn A McWilliams & John C Coxon
+  title: 'Semi-annual, annual and Universal Time variations in the magnetosphere and in geomagnetic activity: 1. Geomagnetic data'
+  details: '*Journal of Space Weather and Space Climate*, 10, 23'
+  doi: 10.1051/swsc/2020023
+- type: paper
+  year: 2020
+  authors: Michaela K Mooney, Colin Forsyth, I Jonathan Rae, Gareth Chisham, John C Coxon, Mike S Marsh, David R Jackson, Suzy Bingham & Benoît Hubert
+  title: Examining local time variations in the gains and losses of open magnetic flux during substorms
+  details: '*Journal of Geophysical Research: Space Physics*, 125, e2019JA027369'
+  doi: 10.1029/2019JA027369
+- type: paper
+  year: 2020
+  authors: Vladimir B Ovodenko, Maxim V Klimenko, Irina E Zakharenkova, Alexey V Oinats, Daria S Kotova, Alexander V Nikolaev, Ilya V Tyutin, Denis D Rogov, Konstantin G Ratovsky, Dmitriy V Chugunin, Pavel A Budnikov, John C Coxon, Brian J Anderson & Alexander A Chernyshov
+  title: Spatial and temporal evolution of different‐scale ionospheric irregularities in Central and East Siberia during the 27–28 May 2017 geomagnetic storm
+  details: '*Space Weather*, 18, e2019SW002378'
+  doi: 10.1029/2019SW002378
+- type: paper
+  year: 2019
+  authors: John C Coxon, Robert M Shore, Mervyn P Freeman, Robert C Fear, Stephen D Browett, Andrew W Smith, Daniel K Whiter & Brian J Anderson
+  title: Timescales of Birkeland currents driven by the IMF
+  details: '*Geophysical Research Letters*, 46, 7893–7901'
+  doi: 10.1029/2018GL081658
+- type: paper
+  year: 2019
+  authors: Robert C Fear, John C Coxon & Caitríona M Jackman
+  title: The contribution of flux transfer events to Mercury’s Dungey cycle
+  details: '*Geophysical Research Letters*, 46, 14239–14246'
+  doi: 10.1029/2019GL085399
+- type: paper
+  year: 2019
+  authors: Robert M Shore, Mervyn P Freeman, John C Coxon, Evan G Thomas, Jesper W Gjerloev & Nils Olsen
+  title: Spatial variation in the responses of the surface external and induced magnetic field to the solar wind
+  details: '*Journal of Geophysical Research: Space Physics*, 124, 6195–6211'
+  doi: 10.1029/2019JA026543
+- type: paper
+  year: 2019
+  authors: Lorenzo Trenchi, John C Coxon, Robert C Fear, Jonathan P Eastwood, Malcolm W Dunlop, Karlheinz J Trattner, Daniel J Gershman, Daniel B Graham, Yuri Khotyaintsev & Benoit Lavraud
+  title: Signatures of magnetic separatrices at the borders of a crater flux transfer event connected to an active X‐line
+  details: '*Journal of Geophysical Research: Space Physics*, 124, 8600–8616'
+  doi: 10.1029/2018JA026126
+- type: paper
+  year: 2018
+  authors: John C Coxon, Steve E Milan & Brian J Anderson
+  title: A review of Birkeland current research using AMPERE
+  details: in *Electric Currents in Geospace and Beyond* (eds Andreas Keiling, Octav Marghitu & Michael Wheatland)
+  doi: 10.1002/9781119324522.ch16
+- type: paper
+  year: 2018
+  authors: John C Coxon, Mervyn P Freeman, Caitríona M Jackman, Colin Forsyth, I Jonathan Rae & Robert C Fear
+  title: Tailward propagation of magnetic energy density variations with respect to substorm onset times
+  details: '*Journal of Geophysical Research: Space Physics*, 123, 4741–4754'
+  doi: 10.1029/2017JA025147
+- type: paper
+  year: 2018
+  authors: Colin Forsyth, Mark Shortt, John C Coxon, I Jonathan Rae, Mervyn P Freeman, Nadine ME Kalmoni, Caitríona M Jackman, Brian J Anderson, Steve E Milan & Angeline G Burrell
+  title: Seasonal and temporal variations of field‐aligned currents and ground magnetic deflections during substorms
+  details: '*Journal of Geophysical Research: Space Physics*, 123, 2696–2713'
+  doi: 10.1002/2017JA025136
+- type: paper
+  year: 2018
+  authors: German Farinas Perez, Flavia R Cardoso, David G Sibeck, Walter D Gonzalez, Gabor Facsko, John C Coxon & Asher D Pembroke
+  title: Generation mechanism for interlinked flux tubes on the magnetopause
+  details: '*Journal of Geophysical Research: Space Physics*, 123, 1337–1355'
+  doi: 10.1002/2017JA024664
+- type: paper
+  year: 2018
+  authors: Steve E Milan, Jennifer A Carter, Harneet Sangha, Karl M Laundal, Nikolai Østgaard, Paul Tenfjord, Jone P Reistad, Kristian Snekvik, John C Coxon, Haje Korth & Brian J Anderson
+  title: Timescales of dayside and nightside field‐aligned current response to changes in solar wind‐magnetosphere coupling
+  details: '*Journal of Geophysical Research: Space Physics*, 123, 7307–7319'
+  doi: 10.1029/2018JA025645
+- type: paper
+  year: 2018
+  authors: Andrew W Smith, Caitríona M Jackman, Christopher M Frohmaier, John C Coxon, James A Slavin & Robert C Fear
+  title: 'Evaluating single‐spacecraft observations of planetary magnetotails with simple Monte Carlo simulations: 1. Spatial distributions of the neutral line'
+  details: '*Journal of Geophysical Research: Space Physics*, 123, 10109–10123'
+  doi: 10.1029/2018JA025958
+- type: paper
+  year: 2018
+  authors: Andrew W Smith, Caitríona M Jackman, Christopher M Frohmaier, Robert C Fear, James A Slavin, John C Coxon
+  title: 'Evaluating single spacecraft observations of planetary magnetotails with simple Monte Carlo simulations: 2. Magnetic flux rope signature selection effects'
+  details: '*Journal of Geophysical Research: Space Physics*, 123, 10124–10138'
+  doi: 10.1029/2018JA025959
+- type: paper
+  year: 2017
+  authors: John C Coxon, I Jonathan Rae, Colin Forsyth, Caitríona M Jackman, Robert C Fear & Brian J Anderson
+  title: 'Birkeland currents during substorms: Statistical evidence for intensification of Regions 1 and 2 currents after onset and a localized signature of auroral dimming'
+  details: '*Journal of Geophysical Research: Space Physics*, 122, 6455–6468'
+  doi: 10.1002/2017JA023967
+- type: paper
+  year: 2017
+  authors: Robert C Fear, Lorenzo Trenchi, John C Coxon & Steve E Milan
+  title: How much flux does a flux transfer event transfer?
+  details: '*Journal of Geophysical Research: Space Physics*, 122, 12,310–12,327'
+  doi: 10.1002/2017JA024730
+- type: paper
+  year: 2017
+  authors: Steve E Milan, Lasse BN Clausen, John C Coxon, Jennifer A Carter, Maria-Theresia Walach, Karl M Laundal, Nikolai Østgaard, Paul Tenfjord, Jone P Reistad, Kristian Snekvik, Haje Korth & Brian J Anderson
+  title: Overview of solar wind-magnetosphere-ionosphere-atmosphere coupling and the generation of magnetospheric currents
+  details: '*Space Science Reviews*, 206, 547–573'
+  doi: 10.1007/s11214-017-0333-0
+- type: paper
+  year: 2016
+  authors: John C Coxon, Caitríona M Jackman, Mervyn P Freeman, Colin Forsyth & I Jonathan Rae
+  title: Identifying the magnetotail lobes with Cluster magnetometer data
+  details: '*Journal of Geophysical Research: Space Physics*, 121, 1436–1446'
+  doi: 10.1002/2015JA022020
+- type: paper
+  year: 2016
+  authors: John C Coxon, Steve E Milan, Jennifer A Carter, Lasse BN Clausen, Brian J Anderson & Haje Korth
+  title: Seasonal and diurnal variations in AMPERE observations of the Birkeland currents compared to modeled results
+  details: '*Journal of Geophysical Research: Space Physics*, 121, 4027–4040'
+  doi: 10.1002/2015JA022050
+- type: paper
+  year: 2016
+  authors: Jennifer A Carter, Steve E Milan, John C Coxon, Maria-Theresia Walach & Brian J Anderson
+  title: Average field-aligned current configuration parameterized by solar wind conditions
+  details: '*Journal of Geophysical Research: Space Physics*, 121, 1294–1307'
+  doi: 10.1002/2015JA021567
+- type: paper
+  year: 2016
+  authors: Colin Forsyth, I Jonathan Rae, Kyle R Murphy, Mervyn P Freeman, Chia-Lin Huang, Harlan E Spence, Alexander J Boyd, John C Coxon, Caitríona M Jackman, Nadine ME Kalmoni & Clare EJ Watt
+  title: What effect do substorms have on the content of the radiation belts?
+  details: '*Journal of Geophysical Research: Space Physics*, 121, 6292–6306'
+  doi: 10.1002/2016JA022620
+- type: paper
+  year: 2016
+  authors: Karl M Laundal, Ingrid Cnossen, Steve E Milan, Stein E Haaland, John C Coxon, Nicholas M Pedatella, Matthias Förster & Jone P Reistad
+  title: 'North–South asymmetries in Earth’s magnetic field: Effects on high-latitude geospace'
+  details: '*Space Science Reviews*, 206, 225–257'
+  doi: 10.1007/s11214-016-0273-0
+- type: paper
+  year: 2015
+  authors: Colin Forsyth, I Jonathan Rae, John C Coxon, Mervyn P Freeman, Caitríona M Jackman, Jesper Gjerloev & Andrew N Fazakerley
+  title: A new technique for determining Substorm Onsets and Phases from H-Indices of the Electrojet (SOPHIE)
+  details: '*Journal of Geophysical Research: Space Physics*, 120, 10,592–10,606'
+  doi: 10.1002/2015JA021343
+- type: paper
+  year: 2014
+  suffix: a
+  authors: John C Coxon, Steve E Milan, Lasse BN Clausen, Brian J Anderson & Haje Korth
+  title: The magnitudes of the regions 1 and 2 Birkeland currents observed by AMPERE and their role in solar wind-magnetosphere-ionosphere coupling
+  details: '*Journal of Geophysical Research: Space Physics*, 119, 9804–9815'
+  doi: 10.1002/2014JA020138
+- type: paper
+  year: 2014
+  suffix: b
+  authors: John C Coxon, Steve E Milan, Lasse BN Clausen, Brian J Anderson & Haje Korth
+  title: A superposed epoch analysis of the regions 1 and 2 Birkeland currents observed by AMPERE during substorms
+  details: '*Journal of Geophysical Research: Space Physics*, 119, 9834–9846'
+  doi: 10.1002/2014JA020500
+- type: paper
+  year: 2014
+  authors: Colin Forsyth, Clare EJ Watt, I Jonathan Rae, Andrew N Fazakerley, Nadine ME Kalmoni, Mervyn P Freeman, Peter D Boakes, Rumi Nakamura, Iannis Dandouras, Lynn M Kistler, Caitríona M Jackman, John C Coxon & Chris Carr
+  title: Increases in plasma sheet temperature with solar wind driving during substorm growth phases
+  details: '*Geophysical Research Letters*, 41, 8713–8721'
+  doi: 10.1002/2014GL062400
+- type: paper
+  year: 2014
+  authors: Victor A Sergeev, Alexander V Nikolaev, Marina V Kubyshkina, Nikolai A Tsyganenko, Howard J Singer, Juan V Rodriguez, Vassilis Angelopoulos, Rumi Nakamura, Steve E Milan, John C Coxon, Brian J Anderson & Haje Korth
+  title: Event study combining magnetospheric and ionospheric perspectives of the substorm current wedge modeling
+  details: '*Journal of Geophysical Research: Space Physics*, 119, 9714–9728'
+  doi: 10.1002/2014JA020522
+- type: paper
+  year: 2013
+  authors: Lasse BN Clausen, Joseph BH Baker, J Michael Ruohoniemi, Steve E Milan, John C Coxon, Simon Wing, Shin-ichi Ohtani & Brian J Anderson
+  title: Temporal and spatial dynamics of the regions 1 and 2 Birkeland currents during substorms
+  details: '*Journal of Geophysical Research: Space Physics*, 118, 3007–3016'
+  doi: 10.1002/jgra.50288
+- type: paper
+  year: 2013
+  authors: Lasse BN Clausen, Steve E Milan, Joseph BH Baker, J Michael Ruohoniemi, Karl-Heinz Glassmeier, John C Coxon & Brian J Anderson
+  title: 'On the influence of open magnetic flux on substorm intensity: ground- and space-based observations'
+  details: '*Journal of Geophysical Research: Space Physics*, 118, 2958–2969'
+  doi: 10.1002/jgra.50308
+- type: thesis
+  year: 2015
+  authors: John C Coxon
+  title: The role of Birkeland currents in the Dungey Cycle
+  details: PhD thesis, University of Leicester, Leicester, UK
+  url: https://hdl.handle.net/2381/32438
+- type: other
+  year: 2025
+  authors: Matthew Allcock, Alastair Pidgeon, Gordon Black, Emily Prestwood, Alyssa Frayling, Sara Cucaro, Will Lecky, John C Coxon, Andy W Smith, Sarah N Bentley, Clare E J Watt, Robert T Wicks & I Jonathan Rae
+  title: Severe Space Weather Impacts on UK Critical National Infrastructure
+  details: Starion UK Ltd, Bath, UK
+  url: https://purl.org/net/epubs/work/61075921
+- type: other
+  year: 2023
+  authors: Michael W Liemohn, McArthur Jones Jr, Xochitl Blanco-Cano, John C Coxon, Alexa J Halford & Chigomezyo Ngwira
+  title: 'Editorial: Driving towards a more diverse space physics research community—perspectives, initiatives, strategies, and actions'
+  details: '*Frontiers in Astronomy and Space Sciences*, 10'
+  doi: 10.3389/fspas.2023.1292058
+- type: other
+  year: 2022
+  authors: John C Coxon, Anasuya Aruliah, Sarah N Bentley, Robert M Shore
+  title: RAS Specialist Discussion Meeting report
+  details: '*Astronomy & Geophysics*, 63(1), 30–34'
+  doi: 10.1093/astrogeo/atac011
+- type: other
+  year: 2021
+  authors: Angeline G Burrell, McArthur Jones Jr, Alexa J Halford, Kate A Zawdie, John C Coxon
+  title: Bypassing the bias
+  details: '*Astronomy & Geophysics*, 62(5), 28–29'
+  doi: 10.1093/astrogeo/atab090
+- type: other
+  year: 2018
+  authors: John C Coxon, Jasmine Kaur Sandhu, Gabrielle Provan & James Wild
+  title: Public engagement with MIST science
+  details: '*Astronomy & Geophysics*, 59(6), 29–31'
+  doi: 10.1093/astrogeo/aty276
+- type: other
+  year: 2018
+  authors: Jasmine Kaur Sandhu, Georgina A Graham, Sarah N Bentley & John C Coxon
+  title: Autumn MIST 2017
+  details: '*Astronomy & Geophysics*, 59(2), 26–29'
+  doi: 10.1093/astrogeo/aty090
+- type: other
+  year: 2017
+  authors: Sarah V Badman, John C Coxon, Katie Raymer & Arianna M Sorba
+  title: London MIST 2016
+  details: '*Astronomy & Geophysics*, 58(5), 32–34'
+  doi: 10.1093/astrogeo/atx175
+- type: other
+  year: 2016
+  authors: John C Coxon, Jasmine Kaur Sandhu, Nadine ME Kalmoni, Rebecca L Gray, Joe Kinrade & Ian McCrea
+  title: Autumn MIST 2015
+  details: '*Astronomy & Geophysics*, 57(3), 21–24'
+  doi: 10.1093/astrogeo/atw099

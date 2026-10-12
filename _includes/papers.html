@@ -1,0 +1,33 @@
+{%- comment -%}
+  Renders _data/papers.yml: papers grouped by year (newest first) and numbered
+  automatically, followed by the thesis and other references.
+{%- endcomment -%}
+{%- assign papers = site.data.papers | where: "type", "paper" -%}
+{%- assign thesis = site.data.papers | where: "type", "thesis" -%}
+{%- assign others = site.data.papers | where: "type", "other" -%}
+{%- assign remaining = papers.size -%}
+{%- assign years = papers | group_by: "year" | sort: "name" | reverse -%}
+
+{%- for group in years %}
+<h3>{{ group.name }}</h3>
+<ol reversed start="{{ remaining }}">
+{%- for paper in group.items %}
+{% include reference.html ref=paper %}
+{%- endfor %}
+</ol>
+{%- assign remaining = remaining | minus: group.items.size -%}
+{%- endfor %}
+
+<h2>Thesis</h2>
+<ul>
+{%- for ref in thesis %}
+{% include reference.html ref=ref %}
+{%- endfor %}
+</ul>
+
+<h2>Other references</h2>
+<ol reversed>
+{%- for ref in others %}
+{% include reference.html ref=ref %}
+{%- endfor %}
+</ol>

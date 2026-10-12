@@ -2,3 +2,8 @@
 .ssh/*
 .bash*
 .gitconfig
+_site/
+.jekyll-cache/
+.sass-cache/
+vendor/
+Gemfile.lock

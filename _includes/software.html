@@ -1,0 +1,12 @@
+{%- comment -%}
+  Renders _data/papers.yml: papers grouped by year (newest first) and numbered
+  automatically, followed by the thesis and other references.
+{%- endcomment -%}
+{%- assign software = site.data.software -%}
+{%- assign years = software | group_by: "year" | sort: "name" | reverse -%}
+
+<ol reversed>
+{%- for ref in software %}
+{% include reference.html ref=ref %}
+{%- endfor %}
+</ol>

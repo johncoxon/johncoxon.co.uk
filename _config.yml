@@ -1,0 +1,20 @@
+title: John Coxon
+author: John Coxon
+url: "https://johncoxon.co.uk"
+
+# Each section of the one-page site is a Markdown file in _articles/.
+# They are not output as standalone pages; index.html pulls them in.
+collections:
+  articles:
+    output: false
+
+exclude:
+  - html5up-dimension.zip
+  - LICENSE.txt
+  - README.txt
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+kramdown:
+  auto_ids: false
