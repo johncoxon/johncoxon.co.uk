@@ -9,11 +9,11 @@ collections:
     output: false
 
 exclude:
-  - html5up-dimension.zip
-  - LICENSE.txt
-  - README.txt
   - Gemfile
   - Gemfile.lock
+  - html5up-dimension.zip
+  - LICENSE.txt
+  - README.md
   - vendor
 
 kramdown:

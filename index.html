@@ -3,9 +3,8 @@ layout: default
 ---
 {%- assign articles = site.articles | sort: "order" -%}
 {%- for article in articles %}
-            <!-- {{ article.title }} -->
-            <article id="{{ article.slug }}">
-                <h2 class="major">{{ article.title }}</h2>
-{{ article.content }}
-            </article>
+    <article id="{{ article.slug }}">
+        <h1 class="major">{{ article.title }}</h2>
+        {{ article.content }}
+    </article>
 {% endfor -%}
