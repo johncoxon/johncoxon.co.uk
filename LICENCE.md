@@ -4,6 +4,6 @@ This website uses a template called [Dimension](https://www.html5up.net/dimensio
 
 Dimension, in turn, uses assets from:
 
-- [Font Awesome](https://www.fontawesome.com) (released under the [Font Awesome Free license](https://www.fontawesome.com/license/free))
+- [Font Awesome](https://fontawesome.com) (released under the [Font Awesome Free license](https://fontawesome.com/license/free))
 - [jQuery](https://www.jquery.com) (released under [the MIT license](https://www.github.com/jquery/jquery?tab=MIT-1-ov-file))
 - [Responsive Tools](https://www.github.com/ajlkn/responsive-tools) (released under [the MIT license](https://www.github.com/ajlkn/responsive-tools?tab=License-1-ov-file))
