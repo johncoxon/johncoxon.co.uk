@@ -1,10 +1,12 @@
 {%- assign ref = include.ref -%}
 {%- if ref.doi -%}
-  {%- capture link -%}https://doi.org/{{ ref.doi }}{%- endcapture -%}
+    {%- capture link -%}https://doi.org/{{ ref.doi }}{%- endcapture -%}
 {%- else -%}
-  {%- assign link = ref.url -%}
+    {%- assign link = ref.url -%}
 {%- endif -%}
+
 {%- capture md -%}
-{{ ref.authors | replace: "John C Coxon", "**John C Coxon**" }} ({{ ref.year }}{{ ref.suffix }}). {% if ref.type == "software" %}**[{{ ref.title }}]({{ ref.url }})**{% else %}**{{ ref.title }}**{% endif %}{% if ref.type == "software" %}: {% else %}, {% endif %}{{ ref.details }}. <{{ link }}>.
+    {{ ref.authors | replace: "John C Coxon", "**John C Coxon**" }} ({{ ref.year }}{{ ref.suffix }}). {% if ref.type == "software" %}**[{{ ref.title }}]({{ ref.url }})**{% else %}**{{ ref.title }}**{% endif %}{% if ref.details %}{% if ref.type == "software" %}: {% else %}, {% endif %}{{ ref.details }}.{% else %}.{% endif %}{% if link %} <{{ link }}>.{% endif %}
 {%- endcapture -%}
+
 <li><p>{{ md | markdownify | remove: "<p>" | remove: "</p>" | strip }}</p></li>
