@@ -3,7 +3,7 @@ title: Contact
 order: 5
 ---
 
-You can [email me](mailto:work@johncoxon.co.uk), or contact me around the web with the links below.
+You can [email me](mailto:work@johncoxon.co.uk), or find me around the web with the links below.
 
 <ul class="icons">
     <li><a href="https://github.com/johncoxon" class="icon brands fa-github">
