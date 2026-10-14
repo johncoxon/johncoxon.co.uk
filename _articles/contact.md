@@ -12,6 +12,9 @@ You can [email me](mailto:work@johncoxon.co.uk), or contact me around the web wi
     <li><a href="https://www.linkedin.com/in/jccoxon/" class="icon brands fa-linkedin">
         <span class="label">LinkedIn</span>
     </a></li>
+    <li><a href="https://orcid.org/0000-0002-0166-6854" class="icon brands fa-orcid">
+        <span class="label">ORCiD</span>
+    </a></li>
     <li><a href="https://www.researchgate.net/profile/John-Coxon" class="icon brands fa-researchgate">
         <span class="label">ResearchGate</span>
     </a></li>
